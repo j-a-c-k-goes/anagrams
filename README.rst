@@ -8,7 +8,7 @@ Open your terminal window / ide
 
 Check version of python
 
-`python3 --version`
+  `python3 --version`
 
 *(if not installed) Install Python3*
 
@@ -26,4 +26,4 @@ Open a terminal/console window
 
 *THEN*
 
-`python3 anagrams.py`
+  `python3 anagrams.py`
